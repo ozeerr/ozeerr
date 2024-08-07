@@ -1,12 +1,13 @@
 ![MasterHead](https://www.purrweb.com/blog/wp-content/uploads/2021/02/03-8.png)
 <h1 align="center">Hi 👋, I'm Ahmet</h1>
 <h3 align="center">A passionate mobile developer from Turkey.</h3>
+<p>
+Hello everyone, I have been dealing with software for about 4 years. My journey began with learning the basics of programming, and over time, I developed a strong passion for JavaScript technologies. I particularly enjoy working on front-end development, creating intuitive and responsive user interfaces.
+Currently, I specialize in React Native and React development, building mobile and web applications that are both functional and visually appealing.</p>
 
 <p align="left"> <a href="https://twitter.com/ahmetozrx" target="blank"><img src="https://img.shields.io/twitter/follow/ahmetozrx?logo=twitter&style=for-the-badge" alt="ahmetozrx" /></a> </p>
 
-- 🔭 I’m currently working on **React Native**
-
-- 🌱 I’m currently learning **React, React Native**
+- 🔭 I’m currently working on **React, React Native**
 
 - 📫 How to reach me **efe.aeo@gmail.com**
 
